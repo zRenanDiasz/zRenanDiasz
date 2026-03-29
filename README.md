@@ -52,14 +52,3 @@ Tenho interesse em construir soluções práticas, entender como sistemas funcio
   </a>
 </p>
 
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zRenanDiasz&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zRenanDiasz&theme=tokyonight"/>
-</p>
